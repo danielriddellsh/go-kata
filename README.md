@@ -86,3 +86,14 @@ Portable binaries, testable filesystem code, and dev/prod parity.
 Idiomatic Go testing: table-driven tests, parallelism, and fuzzing.
 
 - [15 - Go Test Harness (Subtests, Parallel, Fuzz)](./06-testing-quality/15-testing-parallel-fuzz-harness/)
+
+---
+
+### 07) Observability: Metrics, Tracing, and Logging
+Production-grade observability with Prometheus, OpenTelemetry, Grafana, and structured logging.
+
+- [21 - Production-Grade HTTP Metrics Middleware](./07-observability/21-prometheus-metrics-middleware/)
+- [22 - Distributed Tracing with OpenTelemetry](./07-observability/22-distributed-tracing-context/)
+- [23 - Context-Aware Structured Logging with slog](./07-observability/23-structured-logging-context/)
+- [24 - Golden Signals Dashboard with Prometheus & Grafana](./07-observability/24-grafana-dashboard-exporter/)
+- [25 - Full-Stack Observability: The Complete Stack](./07-observability/25-full-stack-observability/)
